@@ -16,4 +16,5 @@ XHR; therefore, opening index.html via `file://` protocol won't work.
 
 See `entry-point.js`. Commenting line 16 (custom templates definition) results in the form being
 successfully rendered. Otherwise, only the partial rendering takes place
+
 ![img](http://xiag.ch/share/2012-05-16_1538.png)
