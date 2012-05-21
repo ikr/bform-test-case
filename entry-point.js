@@ -11,7 +11,7 @@ require(
     function ($, Backbone, Form, tmplForm, tmplFieldset, tmplField) {
         "use strict";
 
-        // Comment this line, and the form gets rendered.
+        // Comment this line, and the form inputs get rendered.
         //
         Form.setTemplates({form: tmplForm, fieldset: tmplFieldset, field: tmplField}, {error: "error"});
 
